@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Tic-Tac-Toe-using-ReactJS
+Webapp for Tic-Tac-Toe or Knots and Crosses, whatever you call it. 
+
+======================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,6 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# Tic-Tac-Toe-using-ReactJS
-Webapp for Tic-Tac-Toe or Knots and Crosses, whatever you call it. 
->>>>>>> d0248a901152ca48b5c9d563b146d46198881af2
+
